@@ -1,0 +1,8 @@
+.title_h2{  font-size: 44px;text-align: center;bottom: 0px;right: 0px;left: 0px;top: 0px;padding: 19px;margin-bottom: 27px;
+}
+.carousel-inner > .item > img {
+    top: -40%;
+    left: 10%;
+    min-width: 80%;
+    height: auto !important;
+}
